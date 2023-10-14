@@ -1,7 +1,7 @@
 TDD using React Testing Library
-##import
+## import
 fireEvent, screen, render from "@testing-library/react"
-##Methods used:
+## Methods used:
 render()
 .getAllByRole("button")
 .length
